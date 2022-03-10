@@ -1,0 +1,10 @@
+.delete_btn {
+  position: absolute;
+  right: 20px;
+  top: 10px;
+  z-index: 10;
+}
+
+.relative {
+  position: relative;
+}

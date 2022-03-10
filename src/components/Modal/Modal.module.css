@@ -1,0 +1,24 @@
+.styledOverlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(221, 212, 212, 0.8);
+  z-index: 1200;
+}
+
+.styledModal {
+  max-width: calc(100vw - 192px);
+  max-height: calc(100vh - 96px);
+}
+
+.close_btn {
+  position: absolute;
+  z-index: 1201;
+  right: 90px;
+  top: 50px;
+}

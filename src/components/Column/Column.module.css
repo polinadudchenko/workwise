@@ -1,0 +1,9 @@
+.column {
+  border: 1px solid #eaeaea;
+  min-width: 33%;
+  min-height: 300px;
+}
+
+.column_title {
+  text-align: center;
+}
